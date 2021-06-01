@@ -19,3 +19,5 @@ Music Player Web prototype by which we can listen music just like our mobile app
 - HTML5
 - CSS3
 - Javascript
+
+Live Demo: https://abhay0809.github.io/Music-Player/
