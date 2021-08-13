@@ -2,6 +2,9 @@
 
 Music Player Web prototype by which we can listen music just like our mobile app player.
 
+## Live Demo:
+ https://abhay0809.github.io/Music-Player/
+
 ### Visual View
 
 ![alt](https://cdn.discordapp.com/attachments/584965630688624640/762622483450560532/unknown.png)
@@ -20,4 +23,3 @@ Music Player Web prototype by which we can listen music just like our mobile app
 - CSS3
 - Javascript
 
-Live Demo: https://abhay0809.github.io/Music-Player/
